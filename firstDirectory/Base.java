@@ -3,6 +3,6 @@ package firstDirectory;
 public class Base {
 
     public static void main(String [] args){
-        System.out.println("Hello World!!!git ");
+        System.out.println("Hello World!!!");
     }
 }
