@@ -1,2 +1,3 @@
-package firstDirectory.Encapsulation;public class BankAccount {
+package firstDirectory.Encapsulation;
+public class BankAccount {
 }
