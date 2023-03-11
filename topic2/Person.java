@@ -1,11 +1,19 @@
 package topic2;
 
 public class Person {
-   public String fName;
-  private  String name;
+    private String fName;
+    private String name;
     protected int age;
-     public String sex;
+    public String sex;
     private int weight;
+
+    public String getFName() {
+        return fName;
+    }
+
+    public void setFName(String fName) {
+        this.fName = fName;
+    }
 
     public String getName() {
         return name;
