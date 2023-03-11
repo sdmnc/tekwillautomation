@@ -32,7 +32,8 @@ public class ContulPersoanei {
         try {
             getId();
         } catch (NullPointerException e) {
-        };
+        }
+        ;
 
         getPersonName();
         getSumaCurenta();
