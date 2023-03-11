@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca66841-4ff2-4400-8099-4784bc2a704e" name="Changes" comment="Abstraction">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/Person.java" afterDir="false" />
+    <list default="true" id="bca66841-4ff2-4400-8099-4784bc2a704e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstDirectory/Encapsulation/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstDirectory/Encapsulation/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Operation_Branch" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,11 +61,8 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\tekwillautomation\firstDirectory" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\IdeaProjects\tekwillautomation\firstDirectory" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Animal">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstDirectory.Polymorphism.Animal" />
       <module name="tekwillautomation" />
@@ -79,38 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExecuteOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstDirectory.topic3.ExecuteOperations" />
+    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstDirectory.Base" />
       <module name="tekwillautomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firstDirectory.topic3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topic2.Main" />
-      <module name="tekwillautomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="topic2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstDirectory.topic3.Operations" />
-      <module name="tekwillautomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firstDirectory.topic3.*" />
+          <option name="PATTERN" value="firstDirectory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Operations" />
-        <item itemvalue="Application.ExecuteOperations" />
         <item itemvalue="Application.Animal" />
         <item itemvalue="Application.Vehicle" />
+        <item itemvalue="Application.Base" />
+        <item itemvalue="Application.Base" />
+        <item itemvalue="Application.Base" />
       </list>
     </recent_temporary>
   </component>
@@ -150,18 +121,6 @@
       <option name="presentableId" value="Default" />
       <updated>1675679423129</updated>
     </task>
-    <task id="LOCAL-00001" summary="Abstraction">
-      <created>1677417651469</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1677417651469</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Abstraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstraction" />
   </component>
 </project>
