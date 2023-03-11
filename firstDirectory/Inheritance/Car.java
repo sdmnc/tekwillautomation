@@ -1,7 +1,7 @@
 package firstDirectory.Inheritance;
 
 public class Car extends Vehicle {
-   private String carBrand = "Dacia";
+    private String carBrand = "Dacia";
 
     public Car(String color, int numberOfWheels) {
         super(color, numberOfWheels);
