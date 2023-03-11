@@ -1,6 +1,12 @@
 package firstDirectory.topic3;
 
 public class Operations {
+
+    public static void main(String []args){
+        printArithmeticOperations();
+        printLogicOperations();
+        printRelationalOperation();
+    }
     static void printArithmeticOperations() {
         System.out.println("ArithmeticOperations");
         int a = 10;
@@ -9,10 +15,12 @@ public class Operations {
         int min = b-a;
         int der = a*b;
         double quotient = b/a;
+        int restulImpartirii = b%a;
         System.out.println("The sum of a+b equals " + sum);
         System.out.println("B-A equals " + min);
         System.out.println("The derivative  of a*b equals " + der);
-        System.out.println("The quotient  of b/ equals " + quotient);
+        System.out.println("The quotient  of b equals " + quotient);
+        System.out.println("The restul impartirii of b equals " + restulImpartirii);
 
 
 
