@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca66841-4ff2-4400-8099-4784bc2a704e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstDirectory/Encapsulation/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstDirectory/Encapsulation/BankAccount.java" afterDir="false" />
+    <list default="true" id="bca66841-4ff2-4400-8099-4784bc2a704e" name="Changes" comment="Sarcina Practica Exceptie">
+      <change beforePath="$PROJECT_DIR$/firstDirectory/topic8/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstDirectory/topic8/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstDirectory/topic8/ServiceStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstDirectory/topic8/ServiceStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstDirectory/topic8/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstDirectory/topic8/Stock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LMSNzoP3IJ1wjDsGnKclr4s9zu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,22 +57,26 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/tekwillautomation/firstDirectory&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\tekwillautomation\firstDirectory" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\tekwillautomation\firstDirectory" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Animal">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstDirectory.Polymorphism.Animal" />
+  <component name="RunManager" selected="Application.ServiceStock">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic2.Main" />
       <module name="tekwillautomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firstDirectory.Polymorphism.*" />
+          <option name="PATTERN" value="topic2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +84,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstDirectory.Base" />
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstDirectory.topic4.Methods" />
       <module name="tekwillautomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firstDirectory.*" />
+          <option name="PATTERN" value="firstDirectory.topic4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstDirectory.topic3.Operations" />
+      <module name="tekwillautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstDirectory.topic3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstDirectory.topic8.ServiceStock" />
+      <module name="tekwillautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstDirectory.topic8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Animal" />
+        <item itemvalue="Application.ServiceStock" />
         <item itemvalue="Application.Vehicle" />
-        <item itemvalue="Application.Base" />
-        <item itemvalue="Application.Base" />
-        <item itemvalue="Application.Base" />
+        <item itemvalue="Application.Operations" />
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +155,88 @@
       <option name="presentableId" value="Default" />
       <updated>1675679423129</updated>
     </task>
+    <task id="LOCAL-00001" summary="Abstraction">
+      <created>1677417651469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677417651469</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixies per review3">
+      <created>1678519287980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678519287980</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixies per review3">
+      <created>1678519770354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678519770354</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixies per review3">
+      <created>1678519800834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678519800834</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixies per review3">
+      <created>1678520931061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678520931061</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixies per review3">
+      <created>1678520955537</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678520955537</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixies per review3">
+      <created>1678520962953</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678520962953</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sarcina Practica Metode in Java">
+      <created>1678523482667</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678523482667</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Sarcina Practica Exceptie">
+      <created>1678526262742</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678526262742</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Abstraction" />
+    <MESSAGE value="Fixies per review3" />
+    <MESSAGE value="Sarcina Practica Metode in Java" />
+    <MESSAGE value="Sarcina Practica Exceptie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sarcina Practica Exceptie" />
   </component>
 </project>
