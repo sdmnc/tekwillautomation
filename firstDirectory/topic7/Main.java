@@ -1,8 +1,8 @@
 package firstDirectory.topic7;
 
 public class Main {
-    static String path ="C:\\Users\\user\\IdeaProjects\\tekwillautomation\\out\\resources\\";
-    static String path2 = "C:\\Users\\user\\IdeaProjects\\tekwillautomation\\out\\resources\\filename.txt";
+    static String path ="out\\resources";
+    static String path2 = "out\\resources\\filename.txt";
     public static void main(String[] args) {
         FileManager file =new FileManager();
       //  file.createFile();
